@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: d93face7f347220468e792c8b915777e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 01
+    100002: A.04
+    100004: A.05
+    100006: Box04
+    100008: Box04 1
+    100010: CONTOUR.05
+    100012: FACADE SECTEUR407
+    100014: FACADE SECTEUR408
+    100016: FACADE SECTEUR409
+    100018: FACADE SECTEUR410
+    100020: FACADE SECTEUR412
+    100022: FACADE SECTEUR414
+    100024: FACADE SECTEUR415
+    100026: FACADE SECTEUR416
+    100028: FACADE.09
+    100030: gujia
+    100032: LAYER_04.04
+    100034: LAYER_04.19
+    100036: LAYER_04.20
+    100038: LAYER_04.21
+    100040: LAYER_05.04
+    100042: LAYER_05.05
+    100044: LAYER_09.05
+    100046: LAYER_09.07
+    100048: LAYER_09.08
+    100050: //RootNode
+    100052: paod35
+    100054: SEC-09-OK-01.09
+    100056: SEC-09-OK-01.10
+    100058: SEC10-OK04
+    100060: structure
+    100062: structure01
+    100064: toit01-Q
+    100066: toit02-Q
+    100068: "\u573A\u5185"
+    400000: 01
+    400002: A.04
+    400004: A.05
+    400006: Box04
+    400008: Box04 1
+    400010: CONTOUR.05
+    400012: FACADE SECTEUR407
+    400014: FACADE SECTEUR408
+    400016: FACADE SECTEUR409
+    400018: FACADE SECTEUR410
+    400020: FACADE SECTEUR412
+    400022: FACADE SECTEUR414
+    400024: FACADE SECTEUR415
+    400026: FACADE SECTEUR416
+    400028: FACADE.09
+    400030: gujia
+    400032: LAYER_04.04
+    400034: LAYER_04.19
+    400036: LAYER_04.20
+    400038: LAYER_04.21
+    400040: LAYER_05.04
+    400042: LAYER_05.05
+    400044: LAYER_09.05
+    400046: LAYER_09.07
+    400048: LAYER_09.08
+    400050: //RootNode
+    400052: paod35
+    400054: SEC-09-OK-01.09
+    400056: SEC-09-OK-01.10
+    400058: SEC10-OK04
+    400060: structure
+    400062: structure01
+    400064: toit01-Q
+    400066: toit02-Q
+    400068: "\u573A\u5185"
+    2100000: WHITE
+    2100002: Default
+    2100004: GG
+    2100006: WWW
+    2100008: RED
+    2100010: WATER
+    2100012: GREEN
+    2100014: 'Material #13952027'
+    2100016: "\u8DEF\u5440"
+    2100018: 'Material #13952030'
+    2100020: 'Material #13952029'
+    2100022: 'Material #13952031'
+    2100024: 'Material #13952028'
+    2100026: 'Material #13952026'
+    2100028: jifenpai_fx
+    2100030: gradins
+    2100032: 24 - Default
+    2300000: Box04
+    2300002: Box04 1
+    2300004: LAYER_04.04
+    2300006: paod35
+    2300008: "\u573A\u5185"
+    3300000: Box04
+    3300002: Box04 1
+    3300004: LAYER_04.04
+    3300006: paod35
+    3300008: "\u573A\u5185"
+    4300000: paod35
+    4300002: Box04
+    4300004: Box04
+    4300006: "\u573A\u5185"
+    4300008: LAYER_04.04
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
